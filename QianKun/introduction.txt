@@ -1,0 +1,27 @@
+How to run:
+1. Replace the submitted API key in the divination_page.py file
+2. Pip requirements.txt
+3. Enjoy your journey of divination
+
+How to use:
+The home page features three functional buttons from left to right: drawing lots、divination,、meditation.
+
+Drawing Lots:
+After clicking the "drawing lots" button, you will see an explanation of the drawing lots feature. 
+Next, click "start draw lots" to watch an animation of shaking the lot container, after which a lot stick will fall out. 
+You can then click "result" to view the lot's interpretation. 
+From there, you can either select "re draw lots" to try again or return to the home page by clicking "back" in the top left corner.
+
+Divination:
+Return to the home page and click the "divination" button to enter the question submission phase. 
+Type your question in English, then input three groups of three-digit numbers below. 
+These numbers will be used by the AI to analyze and predict your question based on the principles of the Chinese I Ching (Eight Trigrams). 
+After clicking "view results," wait a few seconds to receive the prediction. You can press "translate" to convert the Chinese prophecy into English. 
+Once complete, you can click on the blank area outside the pop-up to return to the question page.
+
+Meditation:
+Go back to the home page and click the "meditation" button. 
+You will see a slowly burning incense burner and a traditional Chinese wooden fish (a percussion instrument often seen in temples). 
+In Chinese culture, tapping the wooden fish is believed to accumulate merit and bring good fortune.
+
+Demo Video: https://connectpolyu-my.sharepoint.com/:v:/g/personal/24098741g_connect_polyu_hk/EVR1NUfXLkdJucPQ4y4LGu0BreWOLhxV2SRxaT83rx_TTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2bDQwo

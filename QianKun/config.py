@@ -1,0 +1,7 @@
+SCREEN_WIDTH = 1080
+SCREEN_HEIGHT = 810
+
+BLACK = (0, 0, 0)
+GRAY = (200, 200, 200)
+
+FONT_PATH = r"./GenWanMinTW-Medium.ttf"
